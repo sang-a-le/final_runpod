@@ -1,0 +1,7 @@
+.env
+.cache
+snowflake-arctic-embed-l-v2.0-ko/
+models/dragonkue-snowflake-arctic-embed-l-v2.0-ko/
+
+final_runpod_server/
+faiss_db/
